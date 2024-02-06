@@ -18,7 +18,7 @@ const NetworkUpgradeSummaryData: NetworkUpgradeSummaryDataProps = {
     waybackLink:
       "https://web.archive.org/web/20230411044526/https://ethereum.org/en/",
     blockNumber: 17034870,
-    epochNumber: undefined,
+    epochNumber: {' '} undefined,
     slotNumber: undefined,
   },
   capella: {
