@@ -17,8 +17,8 @@ const NetworkUpgradeSummaryData: NetworkUpgradeSummaryDataProps = {
     ethPriceInUSD: 1917,
     waybackLink:
       "https://web.archive.org/web/20230411044526/https://ethereum.org/en/",
-    blockNumber: 17034870,
-    epochNumber: undefined,
+    blockNumber:{' } 17034870,
+    epochNumber:{' '} undefined,
     slotNumber: undefined,
   },
   capella: {
@@ -27,7 +27,7 @@ const NetworkUpgradeSummaryData: NetworkUpgradeSummaryDataProps = {
     waybackLink:
       "https://web.archive.org/web/20230411044526/https://ethereum.org/en/",
     blockNumber: undefined,
-    epochNumber: 194048,
+    epochNumber:{' '} 194048,
     slotNumber: 6209536,
   },
   paris: {
@@ -35,7 +35,7 @@ const NetworkUpgradeSummaryData: NetworkUpgradeSummaryDataProps = {
     ethPriceInUSD: 1472,
     waybackLink:
       "https://web.archive.org/web/20220915075314/https://ethereum.org/",
-    blockNumber: 15537394,
+    blockNumber:{' '} 15537394,
     epochNumber: undefined,
     slotNumber: undefined,
   },
@@ -45,7 +45,7 @@ const NetworkUpgradeSummaryData: NetworkUpgradeSummaryDataProps = {
     waybackLink:
       "https://web.archive.org/web/20220906112525/https://ethereum.org/en/",
     blockNumber: undefined,
-    epochNumber: 144896,
+    epochNumber:{' '} 144896,
     slotNumber: undefined,
   },
   grayGlacier: {
@@ -53,7 +53,7 @@ const NetworkUpgradeSummaryData: NetworkUpgradeSummaryDataProps = {
     ethPriceInUSD: 1069,
     waybackLink:
       "https://web.archive.org/web/20220630094629/https://ethereum.org/en/",
-    blockNumber: 15050000,
+    blockNumber:{' '} 15050000,
     epochNumber: undefined,
     slotNumber: undefined,
   },
